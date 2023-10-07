@@ -24,7 +24,7 @@ ORDER BY 3,4
 
 
 
--- When the continent is null, the values of Location are not specific to a geographical location¡£
+-- When the continent is null, the values of Location are not specific to a geographical locationÂ¡Â£
 -- Here are values of locations ( continent is null)
 /*
 Lower middle income, North America, Asia, World, Low income, Africa, Oceania,
