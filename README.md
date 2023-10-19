@@ -26,9 +26,9 @@ In this section, I will provide a list of data analytics projects and briefly de
 
 ### Bike Share Analysis 
 **Code:** [`Bike Share Analysis`](https://www.kaggle.com/code/eugunel/google-data-analytics-capstone-case-study-1)      
-**Description:** The dataset contains the bike share records for the entire year of 2021, encompassing both members and casual users. The project's objective is to distinguish the differences between members and casual users and determine the optimal strategy to convert casual users into members. The project involves the following Google Analytics steps: ask, prepare, process, analyze, share, and act.    
+**Description:** The dataset contains the bike share records for the entire year of 2021, encompassing both members and casual users. The project's objective is to distinguish the differences between members and casual users and determine the optimal strategy to convert casual users into members. The project involves the following Google Analytics steps: ask, prepare, process, analyze, share, and act. Create an interactive dashboard using Tableau.  
 **Skills:** Data consolidation, data cleaning, data analysis, descriptive statistics, data visualization.      
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.     
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Tableau Dashboard 
 **Results:** Review of the user bike share data in Chicago, data-based business recommendations.      
 
 ### Correlation Analysis of Movie Features
