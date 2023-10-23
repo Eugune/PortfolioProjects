@@ -12,7 +12,7 @@ This repository is a platform to exhibit my expertise, share my data analytics a
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
- 	+ [FIFA 21 Data Cleaning and EDA Analysis](#FIFA-21-Data-Cleaning-and-EDA Analysis)
+ 	+ [FIFA 21 Data Cleaning and EDA Analysis](#FIFA-21-Data-Cleaning-and-EDA-Analysis)
 	+ [Bike Share Analysis ](#Bike-Share-Analysis)
 	+ [Correlation Analysis of Movie Features](#Correlation-Analysis-of-Movie-Features)
 	+ [Housing Data Cleaning with SQL](#Housing-Data-Cleaning-with-SQL)
