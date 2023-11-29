@@ -68,6 +68,7 @@ In this section, I will provide a list of data analytics projects and briefly de
  
 
 ## Certificates
+- [The Data Science Course: Complete Data Science Bootcamp 2023](https://www.udemy.com/certificate/UC-11407ab0-a582-4cf1-934a-af8b65196607/) 
 - [Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/M9SYSSZEEQLH) 
 - [HackerRank SQL HackerRank(Intermediate)](https://www.hackerrank.com/certificates/a68fbe02848a)
 - [Google Analytics Certification](https://skillshop.credential.net/ba7d1193-a91c-4632-9908-ac0da8e9cfe3) 
